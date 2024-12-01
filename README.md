@@ -12,6 +12,28 @@ A simple and responsive restaurant themed landing page built using **Vite**, **R
 ## Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/landing-page.git
-   ```
+```
+git clone https://github.com/FroreVale/gericht.git
+```
+2. Navigate to the project directory:
+```
+cd gericht
+```
+3. Install dependencies:
+```
+npm install
+```
+4. Start the development server:
+```
+npm run dev
+```
+5. Open your browser and visit:
+```
+http://localhost:5173
+```
+
+## Scripts
+- `npm run dev`: Start the development server.
+- `npm run build`: Build the project for production.
+- `npm run preview`: Preview the production build.
+
