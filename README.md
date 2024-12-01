@@ -3,6 +3,9 @@
 ## Overview
 A simple and responsive restaurant themed landing page built using **Vite**, **React.js**, and **Tailwind CSS**. This project showcases modern front-end development practices and a clean, user-friendly design.
 
+## Live Demo
+You can view the live website here: [Gericht Website](https://gericht-restaurant-website-chi.vercel.app/)
+
 ## Features
 - **Fast and optimized build** with Vite
 - **Responsive design** for all device sizes
